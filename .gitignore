@@ -1,0 +1,38 @@
+# Archivos de sesión de R
+.Rhistory
+.RData
+.Ruserdata
+
+# Configuración local de RStudio
+.Rproj.user/
+
+# Variables de entorno y credenciales
+.Renviron
+.Renviron.*
+!.Renviron.example
+
+# Archivos temporales generados por el script
+temporal/
+*.zip
+
+# Bases de datos generadas
+data/
+*.rds
+*.RDS
+
+# Archivos temporales de R
+*.Rout
+*.Rout.fail
+*.RDataTmp
+.Rcheck/
+
+# Archivos del sistema operativo
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Archivos temporales de editores
+*.tmp
+*.temp
+*.bak
+*~
